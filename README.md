@@ -14,6 +14,7 @@ Investigacióny relatos sobre avistamientos.
 - **Característica 6:** Investigación.
 ## 🛠️ Tecnologías Utilizadas
 
+* [Ecos del Universo](https://garome.site/index.html)) - Articulos.
 * [avistamientos](https://garome.site/avistamientos.html)) - Avistamientos sobre ufos.
 * [Documentos](https://garome.site/documentos.html)) - Documentos sobre avistamientos.
 * [Ciencia](https://garome.site/ciencia.html)) - Resultados de experíencias científicas.
