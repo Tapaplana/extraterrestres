@@ -14,9 +14,11 @@ Investigacióny relatos sobre avistamientos.
 - **Característica 6:** Investigación.
 ## 🛠️ Tecnologías Utilizadas
 
-* [Tecnología 1](https://link-a-la-tecnologia.com) - Breve descripción de su uso.
-* [Tecnología 2](https://link-a-la-tecnologia.com) - Breve descripción de su uso.
-
+* [avistamientos](https://garome.site/avistamientos.html)) - Avistamientos sobre ufos.
+* [Documentos](https://garome.site/documentos.html)) - Documentos sobre avistamientos.
+* [Ciencia](https://garome.site/ciencia.html)) - Resultados de experíencias científicas.
+* [Teorias](https://garome.site/teorias.html)) - Documentos sobre teorias.
+* [Investigación](https://garome.site/documentos.html)) - Resultados sobre las investigaciones.
 ## 📦 Instalación y Configuración
 
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
