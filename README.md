@@ -1,15 +1,17 @@
 # extraterrestres
-pag extraterrestres
+sobre extraterrestres
 # Extraterrestres 👽
 
-Una breve descripción de una o dos líneas sobre qué hace este proyecto y cuál es su objetivo principal.
+Investigacióny relatos sobre avistamientos.
 
 ## 🚀 Características
 
-- **Característica 1:** Descripción de lo que hace.
-- **Característica 2:** Otra funcionalidad clave.
-- **Característica 3:** Detalle de su ventaja principal.
-
+- **Característica 1:** Avistamientos.
+- **Característica 2:** Documentos.
+- **Característica 3:** Ciencia.
+- **Característica 4:** Tecnología.
+- **Característica 5:** Teorias.
+- **Característica 6:** Investigación.
 ## 🛠️ Tecnologías Utilizadas
 
 * [Tecnología 1](https://link-a-la-tecnologia.com) - Breve descripción de su uso.
